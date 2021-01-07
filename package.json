@@ -1,0 +1,19 @@
+{
+  "name": "honkit-plugin-pagefooter",
+  "version": "0.1.0",
+  "description": "page footer customization plugin",
+  "main": "index.js",
+  "engines": {
+    "honkit": ">=3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chorogis/honkit-plugin-pagefooter.git"
+  },
+  "author": "chorogis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chorogis/honkit-plugin-pagefooter/issues"
+  },
+  "homepage": "https://github.com/chorogis/honkit-plugin-pagefooter#readme"
+}
