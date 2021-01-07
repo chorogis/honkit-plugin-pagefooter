@@ -22,8 +22,6 @@ module.exports = {
         '<span class="footer-modification">' +
         label + '\n{{file.mtime | date("' + datefmt + '")}}\n</span></footer>'
 
-      console.log(footer)
-
       page.content = page.content + footer;
       return page;
     }

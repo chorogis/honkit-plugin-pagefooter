@@ -1,6 +1,6 @@
 {
   "name": "honkit-plugin-pagefooter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "page footer customization plugin",
   "main": "index.js",
   "engines": {
